@@ -1,2 +1,3 @@
 # ts-starter
-Typescript starter
+
+Typescript boilerplate
